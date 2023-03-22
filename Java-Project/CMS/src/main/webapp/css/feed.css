@@ -1,0 +1,15 @@
+.aa
+{
+    max-width: 400px;
+    border-radius: 20px;
+    margin: auto;
+    background: rgba(0,0,0,0.8);
+    box-sizing: border-box;
+    padding: 40px;
+    color: #fff;
+    margin-top: 50px;
+    box-shadow: 10px 10px 10px white;  
+}
+
+
+

@@ -1,0 +1,67 @@
+body
+{
+    background: url('../images/blind.jpg');
+    background-size: cover;
+    font-family: Arial;
+     background: cover;
+    width: 100%;
+    height: 100%;
+}
+.aa
+{
+    max-width: 400px;
+    border-radius: 20px;
+    margin: auto;
+    background: rgba(0,0,0,0.8);
+    box-sizing: border-box;
+    padding: 40px;
+    color: #fff;
+    margin-top: 100px;
+    box-shadow: 10px 10px 10px white;  
+}
+h2
+{
+    text-align: center;
+    font-size: 30px;
+}
+input[type=text],input[type=password]
+{
+    width: 100%;
+    font-size: 20px;
+    box-sizing: border-box;
+    padding: 20px,5px;
+    background: rgba(0,0,0,0.10);
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #fff;
+    color: #fff;
+    border-radius: 5px;
+    margin-top: 25px;
+    
+    
+}
+input[type=text]:hover,input[type=password]:hover
+{
+    border-bottom: 2px solid green;
+    
+}
+
+input[type=submit]{
+	width: 100px;
+}
+
+#link
+{
+    
+   font-size: 20px;
+    font-family: sans-serif;
+    color: grey;
+    font-weight: bold;
+    margin-right: 10px;
+    text-decoration: none; 
+}
+a
+{
+    text-decoration: none;
+}
+
